@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\bin\Debug\Csharp1.exe.config
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\bin\Debug\Csharp1.exe
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\bin\Debug\Csharp1.pdb
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\BTtuần1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\Csharp1.FrmPtBac2.resources
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\Csharp1.frmTinhToan.resources
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\Csharp1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\BTtuần1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\BTtuần1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\Csharp1.exe
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\Csharp1.pdb
+C:\Users\Administrator\source\repos\Csharp1\Csharp1\obj\Debug\Csharp1.FrmVéXemPhim.resources
