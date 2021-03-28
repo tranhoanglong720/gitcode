@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\bin\Debug\BaiTapTuan2Csharp.exe.config
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\bin\Debug\BaiTapTuan2Csharp.exe
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\bin\Debug\BaiTapTuan2Csharp.pdb
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\obj\Debug\BaiTapTuan2Csharp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\obj\Debug\BaiTapTuan2Csharp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\obj\Debug\BaiTapTuan2Csharp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\obj\Debug\BaiTapTuan2Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\obj\Debug\BaiTapTuan2Csharp.exe
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\obj\Debug\BaiTapTuan2Csharp.pdb
+C:\Users\Administrator\source\repos\BaiTapTuan2Csharp\BaiTapTuan2Csharp\obj\Debug\BaiTapTuan2Csharp.frmCombobox.resources
